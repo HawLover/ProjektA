@@ -1,0 +1,5 @@
+Projektidee: Zahlenraten
+
+Der Spieler, wählt eine Zahl von der vorgegebenen Liste.
+Das Programm sagt ob die Zahl größer oder kleiner ist.
+Der Spieler hat 5 Versuche.
