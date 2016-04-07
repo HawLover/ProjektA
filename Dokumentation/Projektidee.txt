@@ -10,7 +10,6 @@ Der Spieler hat 5 Versuche.
 
 Leider ist das eine schlechte Projektidee.
 Was Sie beschreiben sollten ist ein Softwareprojekt, das Sie gerne hätten, also ein Programm, das es noch nicht gibt, das Sie sich aber wünschen.
-Was Sie beschrieben haben ist ein Programm für Schüler in der fünften oder sechsten Klasse, die zum ersten Mal programmieren.
 
 Bitte bearbeiten Sie die Projektidee nochmal und nutzen Sie als Projektidee das Brettspiel Age of Industry, Beschreibung unter: http://www.brettspiele-report.de/age-of-industry/ 
 
