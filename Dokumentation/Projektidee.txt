@@ -1,17 +1,10 @@
 === Projektidee HawLover, 2016-04-05 ===
 
-Projektidee: Zahlenraten
+Projektidee: Online-Videothek
 
-Der Spieler, wählt eine Zahl von der vorgegebenen Liste.
-Das Programm sagt ob die Zahl größer oder kleiner ist.
-Der Spieler hat 5 Versuche.
+Der Benutzer muss sich zuerst anmelden um diesen Service nutzen zu können.
+Er/Sie kann ein Film/Serie aussuchen und sich zu dem Film: Trailer, Bilder, Bewertungen ansehen, so wie den Film/die Serie selber. Das alles kann entweder über Maus oder Touchscreen laufen.
 
-=== Feedback Alpers, 2016-04-07 ===
-
-Leider ist das eine schlechte Projektidee.
-Was Sie beschreiben sollten ist ein Softwareprojekt, das Sie gerne hätten, also ein Programm, das es noch nicht gibt, das Sie sich aber wünschen.
-
-Bitte bearbeiten Sie die Projektidee nochmal und nutzen Sie als Projektidee das Brettspiel Age of Industry, Beschreibung unter: http://www.brettspiele-report.de/age-of-industry/ 
 
 === Zweiter Aufgabenblock (identisch für alle Studierenden) ===
 
