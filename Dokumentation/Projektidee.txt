@@ -1,9 +1,9 @@
 === Projektidee HawLover, 2016-04-05 ===
 
-Projektidee: Online-Videothek
+Projektidee: Das verrückte labyrinth
 
-Der Benutzer muss sich zuerst anmelden um diesen Service nutzen zu können.
-Er/Sie kann ein Film/Serie aussuchen und sich zu dem Film: Trailer, Bilder, Bewertungen ansehen, so wie den Film/die Serie selber. Das alles kann entweder über Maus oder Touchscreen laufen.
+Der Benutzer drückt auf den Kartenstapel wo eine karte mit einem Schatz drauf ist. Er hat eine Feldkarte, womit die NutzerIn das Spielfeld verändern kann (ebenfalls per klick).
+Ziel des Spiels ist es als erstes eine bestimmte Anzahl von Schätzen zu erreichen/die meisten Schätze zu erlangen. Das Spiel wird per Touchscreen/Maus gespielt. 
 
 
 === Zweiter Aufgabenblock (identisch für alle Studierenden) ===
