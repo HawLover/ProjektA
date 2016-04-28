@@ -5,6 +5,28 @@ Projektidee: Das verrückte labyrinth
 Der Benutzer drückt auf den Kartenstapel wo eine karte mit einem Schatz drauf ist. Er hat eine Feldkarte, womit die NutzerIn das Spielfeld verändern kann (ebenfalls per klick).
 Ziel des Spiels ist es als erstes eine bestimmte Anzahl von Schätzen zu erreichen/die meisten Schätze zu erlangen. Das Spiel wird per Touchscreen/Maus gespielt. 
 
+-> Wertung: -1 / 10
+- Interaktionsmöglichkeiten: 2
+- Knappe aber klar Beschreibung: 1
+- Werbeslogans u.ä.: 0
+- Designaspekte: 0
+- Voraussetzung bekannten Wissens: -4
+
+=== Projektidee HawLover, 2016-04-05 ===
+
+Projektidee: Zahlenraten
+ 
+Der Spieler, wählt eine Zahl von der vorgegebenen Liste.
+Das Programm sagt ob die Zahl größer oder kleiner ist.
+Der Spieler hat 5 Versuche.
+
+=== Feedback Alpers, 2016-04-07 ===
+
+Leider ist das eine schlechte Projektidee.
+Was Sie beschreiben sollten ist ein Softwareprojekt, das Sie gerne hätten, also ein Programm, das es noch nicht gibt, das Sie sich aber wünschen.
+Was Sie beschrieben haben ist ein Programm für Schüler in der fünften oder sechsten Klasse, die zum ersten Mal programmieren.
+
+Bitte bearbeiten Sie die Projektidee nochmal und nutzen Sie als Projektidee das Brettspiel Age of Industry, Beschreibung unter: http://www.brettspiele-report.de/age-of-industry/ 
 
 === Zweiter Aufgabenblock (identisch für alle Studierenden) ===
 
@@ -81,3 +103,15 @@ Es ist dabei sehr wahrscheinlich, dass Sie (vielleicht auch erst später währen
 
 Viele Grüße,
 Markus Alpers
+
+=== Feedback Alpers, 2016-04-27 ===
+
+Wichtig: Löschen Sie nicht einfach Teile meines Feedbacks; es geht u.a. darum, die Entwicklung eines Projekts nachvollziehen zu können. Wichtig ist z.B. in diesem Fall, dass Sie zumindest so etwas notieren wie "Wie mit Herrn Alpers am ... abgesprochen, nehme ich das Brettspiel Das verrückte Labyrinth als Vorlage für mein Projekt.
+
+Hätte ich mich nicht daran erinnert, dass Sie das mit mir abgesprochen haben, dann hätten Sie jetzt ein sehr kritisches Feedback bezüglich mangelnder Kommunikation und Dokumentation erhalten.
+
+Nun aber zu Ihrer Projektbeschreibung: Die ist bei weitem zu knapp ausgefallen. Sie muss so formuliert sein, dass jeder eine Vorstellung des Spielablaufs hat. Außerdem gilt, dass die Vorgaben wie in Kap. 5 beschrieben erfüllt werden. Arbeiten Sie da nochmal nach.
+
+In Ihrer Beschreibung haben Sie den typischen Einsteigerfehler gemacht, zu viel beim Leser vorauszusetzen.
+
+=== Feedback Ende ===
