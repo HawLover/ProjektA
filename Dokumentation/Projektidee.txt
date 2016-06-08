@@ -1,13 +1,23 @@
+========================================
 === Projektidee HawLover, 2016-04-28 ===
+========================================
 
 Projektidee: Das Verrückte Labyrinth
 
-Ziel des Spieles ist es, je nach gespielter Variante, als erster eine bestimmte Anzahl Schätze erreicht zu haben. Dazu werden die 24 Suchkarten gleichmäßig verdeckt unter den Mitspielern verteilt. Jeder versucht nun abwechselnd, den auf seiner obersten Karte abgebildeten Gegenstand auf dem Spielplan zu erreichen. Doch zuvor muss er erst eine Reihe des Labyrinths verschieben, anschließend darf er seine Spielfigur ziehen. Wessen Figur auf einer Seite hinausgeschoben wird, beginnt, als sei er unten herumgewandert auf der entgegengesetzten Seite des Spielfelds.
+Ziel des Spieles ist es, je nach gespielter Variante, als erster eine bestimmte Anzahl Schätze erreicht zu haben. 
+Dazu werden die 24 Suchkarten gleichmäßig verdeckt unter den Mitspielern verteilt. 
+Jeder versucht nun abwechselnd, den auf seiner obersten Karte abgebildeten Gegenstand auf dem Spielplan zu erreichen. 
+Doch zuvor muss er erst eine Reihe des Labyrinths verschieben, anschließend darf er seine Spielfigur ziehen. 
+Wessen Figur auf einer Seite hinausgeschoben wird, beginnt, als sei er unten herumgewandert auf der entgegengesetzten Seite des Spielfelds.
 
-Außer seine eigenen Schätze zu sammeln, versucht man auch, den Gegner daran zu hindern, dies seinerseits zu tun. Eine exakte Planung ist durch die Verschiebeaktionen der Mitspieler jedoch sehr schwierig. Eine vorgesehene Variante des Spieles besteht darin, die Suche zu erleichtern, indem man sich irgendeinen seiner Schätze aussuchen darf. Spielen Erwachsene mit Kindern, kann man die Regeln dahingehend mischen, dass sich die Kinder eine beliebige Karte aussuchen dürfen, während die Erwachsenen die Reihenfolge einzuhalten haben.
+Außer seine eigenen Schätze zu sammeln, versucht man auch, den Gegner daran zu hindern, dies seinerseits zu tun. 
+Eine exakte Planung ist durch die Verschiebeaktionen der Mitspieler jedoch sehr schwierig. 
+Eine vorgesehene Variante des Spieles besteht darin, die Suche zu erleichtern, indem man sich irgendeinen seiner Schätze aussuchen darf. 
+Spielen Erwachsene mit Kindern, kann man die Regeln dahingehend mischen, dass sich die Kinder eine beliebige Karte aussuchen dürfen, während die Erwachsenen die Reihenfolge einzuhalten haben.
 
-
+========================================
 === Projektidee HawLover, 2016-04-05 ===
+========================================
 
 Projektidee: Das verrückte labyrinth
 
@@ -21,7 +31,9 @@ Ziel des Spiels ist es als erstes eine bestimmte Anzahl von Schätzen zu erreich
 - Designaspekte: 0
 - Voraussetzung bekannten Wissens: -4
 
+========================================
 === Projektidee HawLover, 2016-04-05 ===
+========================================
 
 Projektidee: Zahlenraten
  
@@ -29,7 +41,9 @@ Der Spieler, wählt eine Zahl von der vorgegebenen Liste.
 Das Programm sagt ob die Zahl größer oder kleiner ist.
 Der Spieler hat 5 Versuche.
 
+===================================
 === Feedback Alpers, 2016-04-07 ===
+===================================
 
 Leider ist das eine schlechte Projektidee.
 Was Sie beschreiben sollten ist ein Softwareprojekt, das Sie gerne hätten, also ein Programm, das es noch nicht gibt, das Sie sich aber wünschen.
@@ -37,83 +51,14 @@ Was Sie beschrieben haben ist ein Programm für Schüler in der fünften oder se
 
 Bitte bearbeiten Sie die Projektidee nochmal und nutzen Sie als Projektidee das Brettspiel Age of Industry, Beschreibung unter: http://www.brettspiele-report.de/age-of-industry/ 
 
+===============================================================
 === Zweiter Aufgabenblock (identisch für alle Studierenden) ===
+===============================================================
+(gelöscht, da im Lernraum für alle einsehbar)
 
-Sie haben jetzt gezeigt, dass Sie einfache Arbeiten mit einem Git-Repository beherrschen.
-Als Teil der letzten Aufgabe sollten Sie beschreiben, was Ihre Anwendung tun soll, also was für Funktionalitäten Ihre Anwendung bieten soll.
-Wenn Sie hier nichts angegeben haben, dann werde ich Ihnen einen Vorschlag hochladen, mit dem Sie weiterarbeiten können.
-In der Veranstaltung haben Sie außerdem gelernt, was Markup Languages sind.
-
-Die nächste Aufgabe besteht aus den folgenden Teilen:
-
-1.) Lesen Sie mein Feedback durch und setzen Sie die beschriebenen Aufgaben um.
-
-Für die folgende Aufgabe sollten Sie mindestens eine halbe Stunde investieren. Zwei Stunden wäre aber etwas zu viel des guten.
-Bearbeiten Sie die Aufgaben 2. und 3. bitte innerhalb von 48 Stunden, weil andere Studierende davon abhängen, dass Sie sie beendet haben.
-Bearbeiten Sie die Aufgaben auf jeden Fall in der vorgegebenen Reihenfolge.
-Und bearbeiten Sie eine Aufgabe nicht nachträglich nochmal. (Wenn Sie also z.B. Aufgabe 3. bearbeiten, dann ändern Sie bitte nichts an Aufgabe 1. nachträglich ab. Dafür wird später noch genug Zeit sein.)
-
-2.) Bennen Sie die strukturellen Elemente, aus denen Ihre Anwendung bestehen soll.
-Es ist dabei egal, ob es diese Elemente in HTML gibt.
-Es ist auch egal, ob Sie sich schon in HTML eingearbeitet haben.
-Wichtig ist nur, dass Sie die strukturellen Elemente benennen, aus der die Anwendung bestehen soll.
-Speichern Sie diese Aufstellung als HTML-Kommentar in einer Datei mit dem Namen
-
-strukt.html
-
-, die Sie in Ihrem Repository abspeichern. Wichtig: Die Datei soll nicht im Unterverzeichnis Dokumentation des Repositories gespeichert werden, weil sie die Basis für das erste HTML-Dokument werden wird.
-
-Wenn Sie noch unsicher sind: Strukturelle Elemente können alles mögliche sein:
-- Tabellen
-- Listen
-- Schaltflächen
-- Textfelder
-- Bildbereiche
-- Hintergrundmusik
-- Absätze
-- ...
-
-In anderen Worten: Ein strukturelles Element ist etwas, das ein abgegrenzter Teil der Anwendung ist.
-Notieren Sie kurz, welche Funktion jedes der von Ihnen genannten Elemente haben soll.
-
-Hier einige Beispiele:
-- Schaltfläche (Nutzer können per Klick bestätigen, dass eine Eingabe abgeschickt werden soll.)
-- Textfeld für Namen (Nutzer können Ihren Nachnamen eintragen.)
-- Log-In-Maske (Bereich, in dem Nutzer sich einloggen können.)
-- - Teile der Log-In-Maske:
-- - Textfeld für Username
-- - Textfeld, das die Eingabe nicht anzeigt, fürs Passwort
-- Tabelle, 7 x 5 Felder (Jedes Feld soll ein Bild anzeigen, das ein Feld des Spielbretts ist. Wenn Nutzer ein Feld anwählen, soll ein Menü erscheinen.)
-- - Menü für jedes Feld der Tabelle mit Texteinträgen (Eintrag für "Gebäude abreißen", "Feld kaufen")
-- Hintergrundbild (Hier sollen einzelne Bilder als Diashow eingeblendet werden.)
-- Werbebanner
-- Schaltfläche für die Maskierung von NSFW (NSFW = Not safe for work)(NutzerInnen können über diese Schaltfläche eine andere Anwendung in der Vordergrund einblenden lassen, damit der Chef nicht sieht, dass sie gerade spielen.)
-
-3.) Schauen Sie jetzt in der Liste der Repositories (nicht in der Tabelle der Accounts) nach, welche zehn Repositories vor und nach Ihrem Repository aufgeführt sind und geben Sie den Besitzern dieser Repositories Zugriffsrechte auf Ihr Repository.
-
-Bsp.: Sie haben das Repository BerndStromberg. Dann folgen die zehn Repositories der Nutzer BlackWolf63, Cantinaband, CaptainWeasle, ColePfeiffer, CurvLietzau,
-DangerDulf, dnbdel, Domsche, Eldinox und Eupuco und vor Ihnen gibt es die fünf Repositories der Nutzer 2238867, amelie-beh, Anger21, anita1997 und Asphalon. all diesen Accounts geben Sie jetzt Zugriffsrechte auf Ihr Repository, so wie Sie das schon für mich getan haben. Wenn Sie, wie BerndStrommberg zu weit am Anfang der Liste stehen (hier gibt es ja nur fünf andere Accounts bis zum Anfang der Liste), dann geben Sie zusätzlich noch den Besitzern der letzten fünf Repositories Zugriffsrechte. Es sollten insgesamt 20 Accounts Zugriffsrecht haben.
-
-Für die nächsten zwei Aufgaben sollten Sie pro Repository zwischen zehn Minuten und einer Stunde aufwenden. Weniger ist zu wenig und mehr ist zu viel.
-Beachten Sie dabei bitte, dass Sie hier letzten Endes Kritik an der Arbeit eines/einer anderen üben und das einige von Ihnen noch nie programmiert haben. Arbeiten Sie deshalb bitte daran, alles, was Sie ergänzen so neutral und höflich wie möglich zu formulieren, denn Unwissenheit und mangelndes Verständnis fürs Programmieren sind eben nicht das selbe wie Dummheit oder Faulheit.
-
-Bitte erledigen Sie diese Aufgaben innerhalb der nächsten sieben Tage.
-
-4.) Als nächstes greifen Sie auf die nach Ihrem Repository nachfolgenden fünf Repositories zu und bearbeiten hier die folgende Aufgabe. (Hier hängen Sie also davon ab, dass andere Kommilitonen Aufgabe 3. erledigt haben.) 
-
-Lesen Sie sich die Projektidee durch und machen Sie sich ähnlich wie bei 2. einfache Stichpunkte über strukturelle Elemente, die Sie bei dieser Projektidee sinnvoll finden. (Hier erstmal nur Stichpunkte, Details arbeiten Sie unter 5. aus.)
-
-5.) Öffnen Sie jetzt die Datei strukt.html des Repositories, das Sie gerade bearbeiten. Ergänzen Sie Elemente, die Sie unter 4. notiert haben und die noch nicht eingetragen sind in der unter 2. beschriebenen Form.
-
-Abschließender Hinweis zu 4. und 5.:
-
-Auch wenn das nirgends explizit steht sollen Sie Änderungen in das Repository pushen, aus dem sie die Datei strukt.html gepullt haben.
-Es ist dabei sehr wahrscheinlich, dass Sie (vielleicht auch erst später während der Projektbearbeitung) einen merge durchführen müssen. Wenn Sie sich noch nicht angesehen haben, wie das geht, dann tun Sie es jetzt.
-
-Viele Grüße,
-Markus Alpers
-
+===================================
 === Feedback Alpers, 2016-04-27 ===
+===================================
 
 Wichtig: Löschen Sie nicht einfach Teile meines Feedbacks; es geht u.a. darum, die Entwicklung eines Projekts nachvollziehen zu können. Wichtig ist z.B. in diesem Fall, dass Sie zumindest so etwas notieren wie "Wie mit Herrn Alpers am ... abgesprochen, nehme ich das Brettspiel Das verrückte Labyrinth als Vorlage für mein Projekt.
 
@@ -123,4 +68,17 @@ Nun aber zu Ihrer Projektbeschreibung: Die ist bei weitem zu knapp ausgefallen. 
 
 In Ihrer Beschreibung haben Sie den typischen Einsteigerfehler gemacht, zu viel beim Leser vorauszusetzen.
 
-=== Feedback Ende ===
+===================================
+=== Feedback Alpers, 2016-04-27 ===
+===================================
+
+Leider haben Sie die Beschreibung für das Brettspiel und nicht die Beschreibung der Adaption als webbasierte Anwendung notiert. Genau das ist aber Ihre Aufgabe.
+
+Dazu kommt, dass Sie zur Interaktion zwischen menschlichen und computergesteuerten Spielern nichts geschrieben haben.
+
+Wertung 2: Projektbeschreibung: gesamt: 2 / 10
+- Pro Interaktionsmöglichkeit: 0 
+- Knappe aber klare Beschreibung: 2 (Da Beschreibung für Brettspiel.)
+- Werbeslogans u.ä.: 0 
+- Designaspekte: 0 
+- Voraussetzung bekannten Wissens: 0 
